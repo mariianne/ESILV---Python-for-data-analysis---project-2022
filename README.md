@@ -1,6 +1,6 @@
 # ESILV-Python-for-data-analysis-project-2022
 
-
+Projet par HANNA Marianne
 # Release Prediction Year of Music Song Data
 
 
@@ -10,6 +10,7 @@ Le Million Song Dataset (MSD) est une collection librement accessible de caract�
 
 L'objectif est de prédire l'année de sortie d'une chanson à partir des caractéristiques audio.
 
+Vous pouvez récuperer le fichier : https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD
 
 ## Description du jeu de données
 Il y a 90 attributs :
